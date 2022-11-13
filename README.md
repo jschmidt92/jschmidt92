@@ -10,8 +10,23 @@
 - 👋 Hi, I’m @jschmidt92
 - 👀 I’m interested in VueJS, NuxtJS, ElectronJS, Vite, TailwindCSS, Javascript, Typescript, and Many Things Code!
 - 🌱 I’m currently learning VueJS, NuxtJS, ElectronJS, Vite, Javascript, Typescript, and Many More Things!
-- 💞️ I’m looking to collaborate on [SOG Client Mod](https://github.com/jschmidt92/sog-client), [SOG Server Mod](https://github.com/jschmidt92/sog-server), [SOG Framework](https://github.com/jschmidt92/sog-framework), [SOG Launcher](https://github.com/jschmidt92/sog-launcher), [SOG Website](https://github.com/jschmidt92/sog-website)
+- 💞️ I’m looking to collaborate on [SOG Client](https://github.com/jschmidt92/sog-client), [SOG Framework](https://github.com/jschmidt92/sog-framework), [SOG Launcher](https://github.com/jschmidt92/sog-launcher), [SOG Server](https://github.com/jschmidt92/sog-server), [SOG Website](https://github.com/jschmidt92/sog-website)
 - 📫 How to reach me [J. Schmidt](https://discord.com/users/90681659204046848)
+
+<p align="center">
+  <a href="https://github.com/jschmidt92/sog-client/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-client?label=sog%20client" alt="sog-client-latest-release">
+  </a>
+  <a href="https://github.com/jschmidt92/sog-framework/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-framework?label=sog%20framework" alt="sog-framework-latest-release">
+  </a>
+  <a href="https://github.com/jschmidt92/sog-launcher/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-launcher?label=sog%20launcher" alt="sog-launcher-latest-release">
+  </a>
+  <a href="https://github.com/jschmidt92/sog-server/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-server?label=sog%20server" alt="sog-server-latest-release">
+  </a>
+</p>
 
 <!---
 jschmidt92/jschmidt92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
