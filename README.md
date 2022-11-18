@@ -7,7 +7,7 @@
   <br>
 </p>
 
-- 👋 Hi, I’m @jschmidt92
+- 👋 Hello, I’m @jschmidt92
 - 👀 I’m interested in VueJS, NuxtJS, ElectronJS, Vite, TailwindCSS, Javascript, Typescript, and Many Things Code!
 - 🌱 I’m currently learning VueJS, NuxtJS, ElectronJS, Vite, Javascript, Typescript, and Many More Things!
 - 💞️ I’m looking to collaborate on [SOG Client](https://github.com/jschmidt92/sog-client), [SOG Framework](https://github.com/jschmidt92/sog-framework), [SOG Launcher](https://github.com/jschmidt92/sog-launcher), [SOG Server](https://github.com/jschmidt92/sog-server), [SOG Website](https://github.com/jschmidt92/sog-website)
