@@ -11,22 +11,14 @@
 - 👋 Hello, I’m @jschmidt92
 - 👀 I’m interested in VueJS, NuxtJS, ElectronJS, Vite, TailwindCSS, Java, Javascript, Typescript, Spring and Many Things Code!
 - 🌱 I’m currently learning VueJS, NuxtJS, ElectronJS, Vite, Java, Javascript, Typescript, Spring and Many More Things!
-- 💞️ I’m looking to collaborate on [SOG Client](https://github.com/jschmidt92/sog-client), [SOG Framework](https://github.com/jschmidt92/sog-framework), [SOG Launcher](https://github.com/jschmidt92/sog-launcher), [SOG Server](https://github.com/jschmidt92/sog-server), [SOG Website](https://github.com/jschmidt92/sog-website)
+- 💞️ I’m looking to collaborate on [PMCS 3.0 Client](https://github.com/jschmidt92/client), [PMCS 3.0 Launcher](https://github.com/jschmidt92/launcher), [PMCS 3.0 Mod](https://github.com/jschmidt92/mod), [PMCS 3.0 Server](https://github.com/jschmidt92/server)
 - 📫 How to reach me [J. Schmidt](https://discord.com/users/90681659204046848)
 
 <p align="center">
-  <a href="https://github.com/jschmidt92/sog-client/releases/latest">
-    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-client?label=sog%20client" alt="sog-client-latest-release">
-  </a>
-  <a href="https://github.com/jschmidt92/sog-framework/releases/latest">
-    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-framework?label=sog%20framework" alt="sog-framework-latest-release">
-  </a>
-  <a href="https://github.com/jschmidt92/sog-launcher/releases/latest">
-    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-launcher?label=sog%20launcher" alt="sog-launcher-latest-release">
-  </a>
-  <a href="https://github.com/jschmidt92/sog-server/releases/latest">
-    <img src="https://img.shields.io/github/v/release/jschmidt92/sog-server?label=sog%20server" alt="sog-server-latest-release">
-  </a>
+  <a href="https://github.com/jschmidt92/client/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/client?label=PMCS%203.0%20Client" alt="client-latest-release"></a>
+  <a href="https://github.com/jschmidt92/launcher/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/launcher?label=PMCS%203.0%20Launcher" alt="launcher-latest-release"></a>
+  <a href="https://github.com/jschmidt92/mod/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/mod?label=PMCS%203.0%20Mod" alt="mod-latest-release"></a>
+  <a href="https://github.com/jschmidt92/server/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/server?label=PMCS%203.0%20Server" alt="server-latest-release"></a>
 </p>
 
 <!---
