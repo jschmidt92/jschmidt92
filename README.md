@@ -15,10 +15,10 @@
 - 📫 How to reach me [J. Schmidt](https://discord.com/users/90681659204046848)
 
 <p align="center">
-  <a href="https://github.com/jschmidt92/client/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/client?label=PMCS%203.0%20Client" alt="client-latest-release"></a>
+<!--   <a href="https://github.com/jschmidt92/client/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/client?label=PMCS%203.0%20Client" alt="client-latest-release"></a> -->
   <a href="https://github.com/jschmidt92/launcher/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/launcher?label=PMCS%203.0%20Launcher" alt="launcher-latest-release"></a>
-  <a href="https://github.com/jschmidt92/mod/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/mod?label=PMCS%203.0%20Mod" alt="mod-latest-release"></a>
-  <a href="https://github.com/jschmidt92/server/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/server?label=PMCS%203.0%20Server" alt="server-latest-release"></a>
+<!--   <a href="https://github.com/jschmidt92/mod/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/mod?label=PMCS%203.0%20Mod" alt="mod-latest-release"></a>
+  <a href="https://github.com/jschmidt92/server/releases/latest"><img src="https://img.shields.io/github/v/release/jschmidt92/server?label=PMCS%203.0%20Server" alt="server-latest-release"></a> -->
 </p>
 
 <!---
